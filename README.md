@@ -8,5 +8,8 @@
  1. playing volleyball.
  2. Horse riding.
  3. Watching sunset.
- 
+
+- Grilled fish.
+- Ice cream.
+- fruits
  ---
