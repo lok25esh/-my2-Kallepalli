@@ -13,3 +13,4 @@
 - Ice cream.
 - fruits
  ---
+ [Linking to Mystats](MyStats.md)
