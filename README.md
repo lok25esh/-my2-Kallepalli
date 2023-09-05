@@ -14,3 +14,14 @@
 - fruits
  ---
  [Linking to Mystats](MyStats.md)
+
+ ---
+ ## Tables
+ This tables show about the Sports
+
+ |**Sport_Name**|**Reason to Recommend**|**Hours**|
+ | :---:|:---:|:---:|
+ |Cricket|Team Spirit will be devoloped|3|
+ |VolleyBall|Physical fitness will be improved|1|
+ |Badmint|Focus will be developed|1|
+ |FootBall|Strength will be improved|2|
